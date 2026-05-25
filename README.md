@@ -56,7 +56,7 @@ Enter your password (or 'quit' to exit):
 
 ## Author
 
-Anonymous
+Danish Gulzar
 
 ## License
 
